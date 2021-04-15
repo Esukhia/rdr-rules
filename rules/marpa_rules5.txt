@@ -1,0 +1,5 @@
+[text="ཡང་"] [text="ཕུ་ལ་ཧ་རི་"] [text="ན་" & pos="ADP"] [text="མངོན་གྱུར་" & pos="ADJ"]	4-1	:	[] []
+[text="ཕུ་ལ་ཧ་རི་"] [text="ན་" & pos="ADP"] [text="མངོན་གྱུར་" & pos="ADJ"] [text="དུ་"]	3-1	:	[] []
+[text="སྒྲུབ་པ་" & pos="VERB"] [text="རྒྱུན་" & pos="NOUN"] [text="ཆད་" & pos="VERB"] [text="མེད་པ" & pos="VERB"] [text="ར་" & pos="PART"]	2	+	[]
+[text="།།" & pos="PUNCT"] [text="རྒྱུན་" & pos="NOUN"] [text="ཆད་" & pos="VERB"] [text="མེད་པ" & pos="VERB"] [text="ར་" & pos="PART"]	2	+	[]
+[text="།།" & pos="PUNCT"] [text="རྒྱུན་" & pos="NOUN"] [text="ཆད་" & pos="VERB"] [text="མེད་པ" & pos="VERB"] [text="འི་" & pos="PART"]	2	+	[]
